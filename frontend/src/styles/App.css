@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+form {
+    margin: 20px;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+input, textarea {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}

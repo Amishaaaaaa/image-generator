@@ -1,0 +1,16 @@
+label {
+    color: white;
+}
+
+input {
+    width: 200px;
+}
+
+textarea {
+    width: 400px;
+    margin-left: 90px;
+}
+form {
+    display:block;
+    align-items: center;
+}
